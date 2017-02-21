@@ -14,6 +14,9 @@ Email:   rs2715@stern.nyu.edu
      - [NYC Women in Machine Learning & Data Science](http://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/)
      - http://wimlds.org/
 
+#### Event
+[NYC PyLadies Git Workshop, February 23, 2017](https://www.meetup.com/NYC-PyLadies/events/237446660/)
+
 ---
 
 ### Prerequisites
