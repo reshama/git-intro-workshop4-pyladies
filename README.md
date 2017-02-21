@@ -44,7 +44,7 @@ This workshop covers Git CLI (command line interface).  [It does not use Git GUI
  
      
 ### Workshop Documents
-- [Git terminology](git_1_intro.md)
+- [Git terminology](git_0_intro.md)
 - [Create a repo and update it](git_2_create_repo_update.md)
 - [Save Work (Git: add, commit and push a file)](git_3_save_changes.md)
 - [Fork another user's repo; use branches](git_4_fork_branch.md)
