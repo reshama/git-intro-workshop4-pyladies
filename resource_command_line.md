@@ -1,6 +1,7 @@
 # Using Command Line
 
-#### print current working directory 
+#### find current path
+`pwd` = print working directory 
 ```bash
 pwd
 ```
