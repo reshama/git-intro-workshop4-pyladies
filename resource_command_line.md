@@ -30,3 +30,8 @@ ls -al
 ```bash
 ls -Glp
 ``` 
+
+#### list current directory's parent directory 
+```bash
+ls ..
+``` 
