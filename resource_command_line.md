@@ -25,3 +25,8 @@ touch file_name.txt
 ```bash
 ls -al
 ``` 
+
+#### list files in a directory (distingishes files and directories)
+```bash
+ls -Glp
+``` 
