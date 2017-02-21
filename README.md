@@ -17,6 +17,12 @@ Email:   rs2715@stern.nyu.edu
 #### Event
 [NYC PyLadies Git Workshop, February 23, 2017](https://www.meetup.com/NYC-PyLadies/events/237446660/)
 
+
+#### Teaching Assistants
+* Matt Vivier
+* Nilufer Polat
+* Oleg Dubno
+
 ---
 
 ### Prerequisites
