@@ -57,4 +57,4 @@ This workshop covers Git CLI (command line interface).  [It does not use Git GUI
 - [Fork another user's repo; use branches](git_4_fork_branch.md)
 - [Undo work (Reset, Checkout, and Revert)](git_5_undo_work.md)
 - [Git notes for reference](git_6_reference_notes.md)
-- [Using nano editor](nano_editor.md)
+- [Using nano editor](resource_nano_editor.md)
