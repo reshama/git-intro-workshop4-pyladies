@@ -20,7 +20,7 @@ Email:   rs2715@stern.nyu.edu
 
 #### Teaching Assistants
 * [Matt Vivier](http://mattvivier.com/)
-* [Nilufer Polat](www.twitter.com/oksitosin)
+* [Nilufer Polat](https://twitter.com/oksitosin)
 * [Oleg Dubno](http://odubno.github.io/)
 
 ---
