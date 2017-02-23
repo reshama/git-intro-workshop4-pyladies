@@ -53,7 +53,7 @@ This workshop covers Git CLI (command line interface).  [It does not use Git GUI
 - [Git terminology](git_0_intro.md)
 - [Git set-up](git_1_setup.md)
 - [Create a repo and update it](git_2_create_repo_update.md)
-- [Save Work (Git: add, commit and push a file)](git_3_save_changes.md)
+- [Save Work (Git: add, commit and push a file)](git_3_save_changes_a_c_p.md)
 - [Fork another user's repo; use branches](git_4_fork_branch.md)
 - [Undo work (Reset, Checkout, and Revert)](git_5_undo_work.md)
 - [Git notes for reference](git_6_reference_notes.md)
