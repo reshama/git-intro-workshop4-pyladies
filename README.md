@@ -20,7 +20,7 @@ Email:   rs2715@stern.nyu.edu
 
 #### Teaching Assistants
 * [Matt Vivier](http://mattvivier.com/)
-* [Nilufer Polat](linkedin.com/in/niluferpolat)
+* [Nilufer Polat](www.linkedin.com/in/niluferpolat)
 * [Oleg Dubno](http://odubno.github.io/)
 
 ---
