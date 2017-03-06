@@ -34,3 +34,5 @@ _ds/metis/mypractice  master ✗                                                
 _ds/metis/mypractice  master ✗                                                        ◒  
 ▶ 
 ```
+
+[Mac:  set default editor](http://www.imore.com/how-set-mac-app-default-when-opening-file)
