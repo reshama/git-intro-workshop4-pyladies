@@ -18,3 +18,19 @@ print("Hello World")
 `ctrl x`  
 
 
+---
+
+1.  use `touch` to create a file.  
+2.  use `open` to open and edit a file
+
+
+```
+_ds/metis/mypractice  master ✗                                                       ◒  ⍉
+▶ touch ztest.py
+
+_ds/metis/mypractice  master ✗                                                        ◒  
+▶ open ztest.py 
+
+_ds/metis/mypractice  master ✗                                                        ◒  
+▶ 
+```
