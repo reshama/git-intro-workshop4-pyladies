@@ -45,5 +45,5 @@ Syntax:  `git commit -m 'message' `
 `git commit -m 'adding my python name file' `
 
 ### Step 8:  Push changes to your 'working branch'
-`git push origin branch_wip`  
+Syntax:  `git push <remote_name> <branch_name>'  
 `git push origin reshama_wip`
