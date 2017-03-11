@@ -4,15 +4,15 @@
 https://github.com/WiMLDS/python_advanced
 
 ### Step 2:  clone the repo
-Syntax:  `git clone <url>`  
+>Syntax:  `git clone <url>`  
 
 ### Step 3:  create a working branch (optional)
-Syntax:  `git branch <branch_name>`  
+>Syntax:  `git branch <branch_name>`  
 <br>
 `git branch reshama_wip`
 
 ### Step 4:  switch to working branch (optional)
-Syntax:  `git checkout <branch_name>`  
+>Syntax:  `git checkout <branch_name>`  
 
 
 ### Step 5:  Add remote `upstream`
@@ -39,14 +39,14 @@ Syntax:  `git checkout <branch_name>`
 * `cd` into this folder, create a Python file with your name.  (Example:  `reshama.py`)
 
 ### Step 6:  add a file
-Syntax:  `git add <filename>`  
+>Syntax:  `git add <filename>`  
 
 ### Step 7:  commit a file
-Syntax:  `git commit -m 'message'`    
+>Syntax:  `git commit -m 'message'`    
 <br>
 `git commit -m 'adding my python name file'`
 
 ### Step 8:  Push changes to your 'working branch'
-Syntax:  `git push <remote_name> <branch_name>`   
+>Syntax:  `git push <remote_name> <branch_name>`   
 <br>
 `git push origin reshama_wip`
