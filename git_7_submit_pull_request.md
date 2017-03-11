@@ -37,10 +37,12 @@ Syntax:  `git checkout <branch_name>`
 * create a folder with your name here:  https://github.com/WiMLDS/python_advanced/tree/master/submissions
 * `cd` into this folder, create a Python file with your name.  (Example:  `reshama.py`)
 
-### Step 6:  `git add filename`
+### Step 6:  add a file
+Syntax:  `git add <filename>`  
 
-
-### Step 7:  `git commit -m 'adding my python name file'
+### Step 7:  commit a file
+Syntax:  `git commit -m 'message' `    
+`git commit -m 'adding my python name file' `
 
 ### Step 8:  Push changes to your 'working branch'
 `git push origin branch_wip`  
