@@ -45,6 +45,8 @@ For me, it is:
 ```
 
 ### Clone repo
+Syntax:  `git clone <url>`  
+
 `git clone https://github.com/reshama/starting_git.git`  
 
 >my example  
