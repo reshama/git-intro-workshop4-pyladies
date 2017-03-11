@@ -132,7 +132,7 @@ Switched to branch 'reshama_wip'
 
 ### Copy file/folder from one branch to current branch (`master`)
 
-Syntax:  `git checkout <branch_name><file_name>`  
+Syntax:  `git checkout <branch_name> <file_name>`  
 
 Run this from the branch where you want the file to end up:  
 on:  `master` branch
