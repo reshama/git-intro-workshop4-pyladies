@@ -8,6 +8,7 @@ Syntax:  `git clone <url>`
 
 ### Step 3:  create a working branch (optional)
 Syntax:  `git branch <branch_name>`  
+<br>  
 `git branch reshama_wip`
 
 ### Step 4:  switch to working branch (optional)
