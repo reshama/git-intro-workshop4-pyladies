@@ -44,11 +44,9 @@ https://github.com/WiMLDS/python_advanced
 ### Step 7:  commit a file
 >Syntax:  `git commit -m 'message'`    
 
-<br>
 `git commit -m 'adding my python name file'`
 
 ### Step 8:  Push changes to your 'working branch'
 >Syntax:  `git push <remote_name> <branch_name>`   
 
-<br>
 `git push origin reshama_wip`
