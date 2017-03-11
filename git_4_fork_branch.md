@@ -89,9 +89,8 @@ origin	https://github.com/reshama/data-science-from-scratch.git (push)
 ```
 
 ### Create a branch
-```bash
-git branch <branch_name>
-```
+Syntax:  `git branch <branch_name>`  
+
 ```bash
 ~/git_work/data-science-from-scratch  master ✔                                     498d  
 ▶ git branch
@@ -110,9 +109,7 @@ git branch <branch_name>
 ```
 
 ### Switch to working branch
-```bash
-git checkout <branch_name>
-```
+Syntax:  `git checkout <branch_name>`  
 
 ```bash
 ~/git_work/data-science-from-scratch  master ✔                                     498d  
@@ -132,9 +129,8 @@ Switched to branch 'reshama_wip'
 ---
 
 ### Copy file/folder from one branch to current branch (`master`)
-```bash
-git checkout <branch_name><file_name>
-```
+
+Syntax:  `git checkout <branch_name><file_name>`  
 
 Run this from the branch where you want the file to end up:  
 on:  `master` branch
