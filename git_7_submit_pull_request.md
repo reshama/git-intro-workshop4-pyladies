@@ -4,12 +4,15 @@
 https://github.com/WiMLDS/python_advanced
 
 ### Step 2:  clone the repo
+Syntax:  `git clone <url>`  
 
 ### Step 3:  create a working branch (optional)
-`git branch `
+Syntax:  `git branch <branch_name>`  
 `git branch reshama_wip`
 
 ### Step 4:  switch to working branch (optional)
+Syntax:  `git checkout <branch_name>`  
+
 
 ### Step 5:  Add remote `upstream`
 ```
