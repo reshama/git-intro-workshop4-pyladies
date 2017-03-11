@@ -79,6 +79,8 @@ drwxr-xr-x  37   1258 Nov 14 11:29 code
 ```
 
 #### List remotes
+Syntax:  `git remote -v`  
+
 ```bash
 ▶ git remote -v
 origin	https://github.com/reshama/data-science-from-scratch.git (fetch)
