@@ -3,17 +3,26 @@
 ### Step 1:  fork the repo
 https://github.com/WiMLDS/python_advanced
 
-### Step 2:  clone the repo
+### Step 2:  clone the forked repo
 >Syntax:  `git clone <url>`  
+
+```bash
+git clone https://github.com/reshama/python_advanced.git
+```
 
 ### Step 3:  create a working branch (optional)
 >Syntax:  `git branch <branch_name>`  
 
-`git branch reshama_wip`
+```bash
+git branch reshama_wip
+```
 
 ### Step 4:  switch to working branch (optional)
 >Syntax:  `git checkout <branch_name>`  
 
+```bash
+git checkout reshama_wip
+```
 
 ### Step 5:  Add remote `upstream`
 ```
