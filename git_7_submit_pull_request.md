@@ -24,13 +24,21 @@ git branch reshama_wip
 git checkout reshama_wip
 ```
 
-### Step 5:  Add remote `upstream`
+Step x:  Display remote names
+>Syntax:  `git remote -v`  
+
+```bash
+git remote -v
 ```
- 7429  git remote -v
- 7430  git add remote upstream https://github.com/WiMLDS/python_advanced.git
- 7431  git remote add upstream https://github.com/WiMLDS/python_advanced.git
- 7432  git remote -v
- 7433  ls
+
+### Step 5:  Add remote `upstream`
+>Syntax:  `git remote add upstream <url>`  
+
+```bash
+git remote add upstream https://github.com/WiMLDS/python_advanced.git
+```
+
+```
  7434  cd submissions
  7435  ls
  7436  mkdir reshama
@@ -44,11 +52,26 @@ git checkout reshama_wip
 ```
 
 ### Step 5:  create a file
-* create a folder with your name here:  https://github.com/WiMLDS/python_advanced/tree/master/submissions
-* `cd` into this folder, create a Python file with your name.  (Example:  `reshama.py`)
+* create a folder with your name here:  https://github.com/reshama/python_advanced/tree/master/submissions
+* `cd` into this folder, create a Python file.  (Example:  `print_name.py`)
+
+```bash
+cd submissions
+mkdir reshama
+cd reshama
+```
+
+>Syntax:  `touch <file_name>`  
+```bash
+touch print_name.py
+```
 
 ### Step 6:  add a file
 >Syntax:  `git add <filename>`  
+
+```bash
+git add print_name.py
+```
 
 ### Step 7:  commit a file
 >Syntax:  `git commit -m 'message'`    
@@ -58,4 +81,6 @@ git checkout reshama_wip
 ### Step 8:  Push changes to your 'working branch'
 >Syntax:  `git push <remote_name> <branch_name>`   
 
-`git push origin reshama_wip`
+```bash
+git push origin reshama_wip
+```
