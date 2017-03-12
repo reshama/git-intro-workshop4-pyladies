@@ -9,49 +9,46 @@ https://github.com/WiMLDS/python_advanced
 ```bash
 git clone https://github.com/reshama/python_advanced.git
 ```
+### Step 3:  `cd` into this forked repo
 
-### Step 3:  create a working branch (optional)
+>Syntax:  `cd <directory>`
+
+```bash
+cd python_advanced
+```
+
+### Step 4:  Display branch names
+>Syntax:  `git branch`
+
+### Step 5:  create a working branch 
 >Syntax:  `git branch <branch_name>`  
 
 ```bash
 git branch reshama_wip
 ```
 
-### Step 4:  switch to working branch (optional)
+### Step 6:  switch to working branch (optional)
 >Syntax:  `git checkout <branch_name>`  
 
 ```bash
 git checkout reshama_wip
 ```
 
-Step x:  Display remote names
+### Step 7:  Display remote names
 >Syntax:  `git remote -v`  
 
 ```bash
 git remote -v
 ```
 
-### Step 5:  Add remote `upstream`
+### Step 8:  Add remote `upstream`
 >Syntax:  `git remote add upstream <url>`  
 
 ```bash
 git remote add upstream https://github.com/WiMLDS/python_advanced.git
 ```
 
-```
- 7434  cd submissions
- 7435  ls
- 7436  mkdir reshama
- 7437  cd reshama
- 7438  touch roses.txt
- 7439  git status
- 7440  git add roses.txt
- 7441  git status
- 7442  git commit -m 'adding first flower file'
- 7443  git push origin master
-```
-
-### Step 5:  create a file
+### Step 9:  create a directory and add a file
 * create a folder with your name here:  https://github.com/reshama/python_advanced/tree/master/submissions
 * `cd` into this folder, create a Python file.  (Example:  `print_name.py`)
 
@@ -66,19 +63,19 @@ cd reshama
 touch print_name.py
 ```
 
-### Step 6:  add a file
+### Step 10:  add a file
 >Syntax:  `git add <filename>`  
 
 ```bash
 git add print_name.py
 ```
 
-### Step 7:  commit a file
+### Step 11:  commit a file
 >Syntax:  `git commit -m 'message'`    
 
 `git commit -m 'adding my python name file'`
 
-### Step 8:  Push changes to your 'working branch'
+### Step 12:  Push changes to your 'working branch'
 >Syntax:  `git push <remote_name> <branch_name>`   
 
 ```bash
