@@ -48,6 +48,9 @@ git remote -v
 git remote add upstream https://github.com/WiMLDS/python_advanced.git
 ```
 
+(Note:  `upstream` is the remote to which we ultimately want our file to be submitted.  We will do this with a pull request.)  
+
+
 ### Step 9:  create a directory and add a file
 * create a folder with your name here:  https://github.com/reshama/python_advanced/tree/master/submissions
 * `cd` into this folder, create a Python file.  (Example:  `print_name.py`)
@@ -81,3 +84,6 @@ git add print_name.py
 ```bash
 git push origin reshama_wip
 ```
+### Step 13:  Check GitHub and see if that file appears
+* check your forked repo
+* check that you are in the correct branch name
