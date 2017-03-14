@@ -31,6 +31,8 @@ For me, it is:
 ## Optional (advanced)
 
 ### [Set up SSH keys](https://help.github.com/articles/generating-ssh-keys/)
+* Using the SSH protocol, you can connect and authenticate to remote servers and services. With SSH keys, you can connect to GitHub without supplying your username or password at each visit.
+
 
 ### Setup caching of your Git credentials
 * [Mac](https://help.github.com/articles/caching-your-github-password-in-git/#platform-mac), the setting should be enabled by default; however, if you have issues with your password being remembered, execute `git config --global credential.helper osxkeychain`.
