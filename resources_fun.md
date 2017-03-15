@@ -6,7 +6,13 @@
 * Git can tell you as much or as little about your commits as you want, in virtually any format. 
 
 ## Options
-* to show log in condensed format:  `git log --pretty=oneline`
-* to show history in specific branch:  `git log <branch_name>`
+#### to show log in condensed format
+* `git log --pretty=oneline`
+* `git log --oneline`
+
+#### to show history in specific branch:  
+`git log <branch_name>`
+
+
 
 ![Parody:  Useless Git Commit Messages](images/useless_git_commit_messages.png)
