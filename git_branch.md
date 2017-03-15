@@ -3,6 +3,8 @@
  
  * **List branches**  
     `$ git branch`
+  * **List all branches, including on remote**  
+    `$ git branch --remote`
  * **Create a new branch**  
     `$ git branch reshama_wip`
  * **Navigate between branches**  
