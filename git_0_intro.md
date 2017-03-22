@@ -23,8 +23,8 @@ Version control systems are a category of software tools that help a software te
 	
 ---
 
-## Remotes 
-Remotes are copies of a repo on another computer **(or on a service like Github)**  
+## Remotes  
+A remote repository, as opposed to a local one on your computer, is a copy of a Git project that lives somewhere else (or on a service like Github)
 
 Example:  
 * `upstream` [organization repo]
