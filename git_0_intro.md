@@ -1,4 +1,4 @@
-#Git Terminology
+# Git Terminology
 
 ## Git     --[terminal]
 Git is a system for version control. It runs at the **command line on your local machine** and allows you to keep track of your files and modifications in a "repository". 
