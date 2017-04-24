@@ -1,7 +1,7 @@
 # Git Resources
 
-## Field Specific
-* [Git and GitHub for Librarians](http://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1034&context=jj_pubs)
+## Getting Started
+[Git - The Simple Guide](https://rogerdudler.github.io/git-guide/)
 
 ## Basics
 * [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
@@ -21,3 +21,5 @@
 ## Set up
 * [Setting up a credential manager (no more login when pushing/pulling)](https://help.github.com/articles/caching-your-github-password-in-git/)
 
+## Field Specific
+* [Git and GitHub for Librarians](http://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1034&context=jj_pubs)
