@@ -140,3 +140,10 @@ nothing added to commit but untracked files present (use "git add" to track)
 #### `git diff`
 This will show changes to the file.
 
+#### `git log`
+While more concise than the full diff , the diff stats offer a good summary of the changes in this commit.
+```bash
+git log --stat --pretty=format:"%h (%an) %s" HEAD~1
+```
+
+
