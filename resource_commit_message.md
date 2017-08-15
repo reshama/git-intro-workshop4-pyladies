@@ -22,12 +22,12 @@
 ## Use the Active Voice
 * pick a tense and stick with it (present, past)
 
-## Examples of Bad Commit Messages
+## Examples of Bad Commit Messages :no_entry:
 
 * "Version 2.0, Aug 1st deliverable"
 * "finally, it works!"
 
-## Examples of GOOD Commit Messages
+## Examples of GOOD Commit Messages :white_check_mark:
 
 * 
 
