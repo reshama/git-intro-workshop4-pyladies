@@ -94,7 +94,7 @@ Why use branches?
  * **Merge branches** (will merge specified <branchname> into current branch)  
     `$ git merge <branchname>`
 
-###Copy file/folder from one branch to current branch (`master`)
+### Copy file/folder from one branch to current branch (`master`)
 
 Run this from the branch where you want the file to end up:  
 on:  `master` branch
@@ -102,7 +102,7 @@ on:  `master` branch
 git checkout branch_wip myfile.txt
 ```
 
-####Copy directory from one branch to current branch (`master`)
+#### Copy directory from one branch to current branch (`master`)
 on:  `master` branch
 ```
 git checkout branch_wip myfolder/** 
