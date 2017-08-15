@@ -97,7 +97,7 @@ origin	https://github.com/reshama/starting_git.git (push)
 Already up-to-date.
 ```
 
-##Step 5:  Make changes on local computer 
+## Step 5:  Make changes on local computer 
 
 ### Let's make a change on local computer and push changes up to GitHub
 Use an editor of your choice to create a python file which will print your name.  
@@ -119,6 +119,8 @@ Hello, my name is Reshama
 ```
 
 ### We made a change!  How does git track it?
+#### `git status`
+
 To see what changes have been made since last `git pull`, type `git status`  
 ```bash
 ▶ git status
@@ -135,4 +137,6 @@ nothing added to commit but untracked files present (use "git add" to track)
 ▶ 
 ```
 
+#### `git diff`
+This will show changes to the file.
 
