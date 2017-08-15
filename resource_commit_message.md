@@ -29,7 +29,11 @@
 
 ## Examples of GOOD Commit Messages :white_check_mark:
 
-* 
+>"commits should really contain whole ideas of completed work"
+
+>"Don’t beat yourself up for a big, messy commit with a vague label like "fixed the header"— just know that better is possible and aim for it when you can."
+
+>
 
 ---
 
