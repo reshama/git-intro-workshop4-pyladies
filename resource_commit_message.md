@@ -1,5 +1,9 @@
 # Useful Commit Messages
 
+## What is a Commit?
+* each commit represents a snapshot of our whole project
+* and also a change from a previous commit
+
 ## Commit log
 * it is a list of changes
 * a list of actions you (or someone) have taken that have resulted in versions of the work
