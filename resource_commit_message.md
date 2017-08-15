@@ -4,6 +4,10 @@
 * it is a list of changes
 * a list of actions you (or someone) have taken that have resulted in versions of the work
 
+>"commits should really contain whole ideas of completed work"
+
+>"Don’t beat yourself up for a big, messy commit with a vague label like "fixed the header"— just know that better is possible and aim for it when you can."
+
 ## Be Useful
 * summarize the change
 * make it useful to you and your teammates
@@ -29,11 +33,6 @@
 
 ## Examples of GOOD Commit Messages :white_check_mark:
 
->"commits should really contain whole ideas of completed work"
-
->"Don’t beat yourself up for a big, messy commit with a vague label like "fixed the header"— just know that better is possible and aim for it when you can."
-
->
 
 ---
 
