@@ -36,4 +36,5 @@ For me, it is:
 
 ### Setup caching of your Git credentials
 * [Mac](https://help.github.com/articles/caching-your-github-password-in-git/#platform-mac), the setting should be enabled by default; however, if you have issues with your password being remembered, execute `git config --global credential.helper osxkeychain`.
+  
 * [Linux](https://help.github.com/articles/caching-your-github-password-in-git/#platform-linux), type `git config --global credential.helper cache`. This is not enabled by default on most distributions.
